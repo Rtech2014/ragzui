@@ -1,0 +1,36 @@
+.card-panel {
+    transition: box-shadow .25s;
+    padding: 15px 10px 150px 20px;
+    margin: .5rem 0 1rem 0;
+    border-radius: 2px;
+    background-color: #fff;
+}
+.box{
+	height: 250px;
+	width: 100px;
+	padding: 100px;
+
+}
+.color{
+	background-color: #3da848;
+}
+img {
+    border: 0;
+    margin-left: 38%;
+    padding-top: 40px;
+    padding-bottom: 40px;
+
+}
+.card {
+  background: #fff;
+  border-radius: 2px;
+  display: inline-block;
+  height: 250px;
+  margin: 1rem;
+  position: relative;
+  width: 200px;
+}
+.card-1 {
+  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+
